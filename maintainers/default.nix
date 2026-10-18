@@ -136,4 +136,9 @@
     githubId = 90786729;
     name = "Ephemeral";
   };
+  WinterMaximus = {
+    name = "WinterMaximus";
+    github = "WinterMaximus";
+    githubId = 251295678;
+  };
 }
